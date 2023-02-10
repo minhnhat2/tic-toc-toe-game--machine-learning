@@ -6,7 +6,7 @@ no_of_moves = 0
 turn = 1
 mode = 0
 player = 'x'
-machine = 'o'
+machine = 'o'  
 winScoreArray = []
 board = [['_', '_', '_'], ['_', '_', '_'], ['_', '_', '_']]
 # global declarations end here
